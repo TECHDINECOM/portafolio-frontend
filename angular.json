@@ -23,9 +23,14 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/bootstrap/css/bootstrap.css",
+              "src/assets/fontawesome/css/all.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/jquery/axios.js",
+              "src/assets/bootstrap/js/bootstrap.bundle.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -97,5 +102,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "91fc9cef-f43f-4068-9516-07e3723fc7c7"
   }
 }
