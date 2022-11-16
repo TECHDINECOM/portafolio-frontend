@@ -7,8 +7,8 @@
  * Copyright 2013- Alan Hong. and other contributors
  * summernote may be freely distributed under the MIT license.
  * 
- * Date: 2020-05-20T18:09Z
- * 
+ * Date: 2020-05-20T18:09Z 
+ *  
  */
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
